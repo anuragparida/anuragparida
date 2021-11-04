@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I love discussing existentialism so feel free to drop by and have a chat!
 
-<br />
+  <br />
 
 <h3 align="left">Connect with me:</h3>
 <h5><span style="color:gray">(In order of activity)</span></h5>
@@ -33,12 +33,8 @@
 <a href="https://www.youtube.com/channel/UCONtYCTlrK-x25VOkCJznzA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="UCONtYCTlrK-x25VOkCJznzA" height="30" width="40" /></a>
 <a href="https://twitter.com/parida37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="parida37" height="30" width="40" /></a>
 <a href="https://dev.to/a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="a" height="30" width="40" /></a>
-
 </p>
-
 <br />
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
