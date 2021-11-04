@@ -12,8 +12,6 @@
 
 - 👨‍💻 Know more about me and my projects at [www.anuragparida.com](www.anuragparida.com)
 
-- 📝 I sometimes write articles on [!blogger!](!blogger!)
-
 - 💬 Ask me about **Software Consulting, Open-Source and Startups**
 
 - 📫 Reach me at **hello@anuragparida.com**
@@ -53,6 +51,20 @@
 ---
 
 <br/>
+
+### 🎧 What I'm vibing to right now:
+
+[![Spotify](https://spotify-now-playing-kappa-navy.vercel.app/api/spotify)](https://open.spotify.com/user/anuragparida)
+
+---
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>⚡ GitHub Stats</summary><br/>
