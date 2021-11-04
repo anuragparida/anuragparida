@@ -50,8 +50,6 @@
 
 ---
 
-<br/>
-
 ### 🎧 What I'm vibing to right now:
 
 [![Spotify](https://spotify-now-playing-kappa-navy.vercel.app/api/spotify)](https://open.spotify.com/user/anuragparida)
