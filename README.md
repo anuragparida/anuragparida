@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact: I love discussing existentialism so feel free to drop by and have a chat!
 
+<br/>
+
 ### Connect with me:
 
 ###### (In order of activity)
@@ -55,12 +57,13 @@
 [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org)
 
 <br/>
-<br/>
 
 ---
 
+<br/>
+
 <details>
-  <summary>⚡ GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragparida&count_private=true&show_icons=true&theme=prussian&hide_border=true)
 
