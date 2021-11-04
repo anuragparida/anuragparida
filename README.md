@@ -18,9 +18,7 @@
 
 - 📫 Reach me at **hello@anuragparida.com**
 
-- ⚡ Fun fact: I love discussing existentialism so feel free to drop by and have a chat!
-
-<br/>
+- ⚡ Fun fact: I love discussing existentialism so feel free to drop by and have a chat!<br/>
 
 ### Connect with me:
 
@@ -31,9 +29,7 @@
 [<img align="center" src="https://img.shields.io/badge/anuragparida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/anuragparida)<br/><br/>
 [<img align="center" src="https://img.shields.io/badge/anuragparida-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/anuragparida)
 [<img align="center" src="https://img.shields.io/badge/anuragparida-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="anuragparida"/>](https://fb.com/anuragparida)
-[<img align="center" src="https://img.shields.io/badge/anuragparida-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="anuragparida" />](https://dev.to/anuragparida)
-
-<br/>
+[<img align="center" src="https://img.shields.io/badge/anuragparida-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="anuragparida" />](https://dev.to/anuragparida)<br/>
 
 ### Languages and Tools:
 
@@ -52,9 +48,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
 [<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>](https://reactnative.dev/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org)
-[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org)
-
-<br/>
+[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org)<br/>
 
 ---
 
