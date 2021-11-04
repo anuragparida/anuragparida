@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CareerCookbook](https://github.com/anuragparida/keeperApp)
 
-- 🌱 I’m currently learning **Hosted app solutions, Animation Frameworks and Greek Philosophy**
+- 🌱 I’m learning **Hosted app solutions, Animation Frameworks and Greek Philosophy**
 
 - 🤝 I’m looking for help with **Building Data Science Solutions for Non-Tech**
 
@@ -17,8 +17,6 @@
 - 💬 Ask me about **Software Consulting, Open-Source and Startups**
 
 - 📫 Reach me at **hello@anuragparida.com**
-
-- 📄 Here's my résumé - [<<Rejumay>>](<<Rejumay>>)
 
 - ⚡ Fun fact: I love discussing existentialism so feel free to drop by and have a chat!
 
