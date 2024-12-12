@@ -28,7 +28,7 @@
 [<img align="center" src="https://img.shields.io/badge/anuragparida-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/anuragparida)
 <br/>
 
-### Languages and Tools I have used:
+### Languages and Tools I use:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
