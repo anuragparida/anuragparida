@@ -55,7 +55,7 @@
 ---
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Open Source Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
