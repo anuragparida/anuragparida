@@ -4,11 +4,11 @@
 
 ## Developer-Entrepreneur? in Stuttgart, Germany
 
-- 🏢 Currently, I’m working as an Intern at **Mercedes-Benz AG**
+- 🏢 Currently, I’m working as an Intern at [**Mercedes-Benz AG**](https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system/)
 
 - 🔭 Personally, I’m working on **getting Cloud and Security certified**
 
-- 🌱 I’m learning **LLMs and GenAI**
+- 🌱 I’m learning all about **LLMs and GenAI**
 
 - 👨‍💻 Read more about me at [www.anuragparida.com](www.anuragparida.com)
 
