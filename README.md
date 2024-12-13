@@ -22,7 +22,7 @@
 
 ###### (In order of activity)
 
-[<img align="center" src="https://img.shields.io/badge/hi@anuragparida.com-0f8b6c?style=for-the-badge&logo=About.me&logoColor=white" alt="anuragparidaa"/>](mailto:hi@anuragparida.com)
+[<img align="center" src="https://img.shields.io/badge/hi@anuragparida.com-ee6622?style=for-the-badge&logo=About.me&logoColor=white" alt="anuragparidaa"/>](mailto:hi@anuragparida.com)
 [<img align="center" src="https://img.shields.io/badge/anuragparida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/anuragparida)
 <br/>
 
