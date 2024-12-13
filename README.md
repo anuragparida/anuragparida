@@ -63,6 +63,6 @@
 <details>
   <summary>⚡ GitHub Stats</summary><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragparida&count_private=true&show_icons=true&theme=prussian&hide_border=true)
+![Anurag's GitHub stats](https://githubreadmestatspersonal.vercel.app/api?username=anuragparida&count_private=true&show_icons=true&theme=nightowl&hide_border=true&hide=stars,contribs)
 
 </details>
