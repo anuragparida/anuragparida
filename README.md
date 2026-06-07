@@ -1,67 +1,26 @@
-### Hey, I'm Anurag Parida 🙋‍♂️
+# Anurag Parida
 
-[![www.anuragparida.com](https://img.shields.io/website?label=anuragparida.com&style=for-the-badge&url=https%3A%2F%2Fanuragparida.com)](https://anuragparida.com)
+I build AI systems — RAG, agents, multi-agent orchestration.
 
-## AI-focused Full-stack Engineer in Stuttgart, Germany
+Software engineer at **HDI Group** (cloud, data, and AI for commercial insurance), based in Cologne, Germany. Before that I was a founding engineer at [Zepto](https://www.zeptoes.in/) (YC SS21, employee #1) and wrote my bachelor's thesis on LLM-based vector search at Mercedes-Benz.
 
-- 🏢 Currently, I’m working as a **Bachelor Thesis Writer** at [**Mercedes-Benz AG**](https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system/)
+Most of what I work on is in the **agent / RAG** corner of the stack — retrieval, evaluation harnesses, multi-agent orchestration, observability. Always interested in interesting work — reach me at [hi@anuragparida.com](mailto:hi@anuragparida.com) or on [LinkedIn](https://linkedin.com/in/anuragparida).
 
-- 🔭 Personally, I’m working on a pet project using **Twilio, RAG and Speech APIs**
+## Where to look
 
-- 🌱 I’m learning about **Agentic AI workflows with Langraph and CrewAI**
+- **[anuragparida.com](https://anuragparida.com)** — current portfolio (project highlights, work history, awards, contact)
+- **[blog.anuragparida.com](https://blog.anuragparida.com)** — posts on agent design, evals, and the things I learn shipping them
+- **Selected repos:**
+  - [`mission-control`](https://github.com/anuragparida/mission-control) — ops dashboard for my multi-agent homelab
+  - [`ALM8`](https://github.com/anuragparida/ALM8) — Alzheimer's caretaker assistant (early work)
+  - [`blog.anuragparida.com`](https://github.com/anuragparida/blog.anuragparida.com) — the blog itself
 
-- 👨‍💻 Read more about me at [www.anuragparida.com](www.anuragparida.com)
+## Background
 
-- 🤝 I write a little at [blog.anuragparida.com](blog.anuragparida.com) (DB got wiped, working on restoring)
+- **Google Code-In Grand Prize Winner 2018** (one of 26 worldwide, age 14).
+- Speaks English, Hindi, Odia, and German (C1).
+- Writes tools I'd want to use: a custom task board, a self-hosted Firecrawl, a six-bot Discord agent fleet.
 
-- 💬 Would love to chat about **Software Consulting, Open-Source and Startups**
+---
 
-- 📫 Reach me at **hi@anuragparida.com** or on [LinkedIn](linkedin.com/in/anuragparida)
-
-### Connect with me:
-
-###### (In order of activity)
-
-[<img align="center" src="https://img.shields.io/badge/hi@anuragparida.com-ee6622?style=for-the-badge&logo=About.me&logoColor=white" alt="anuragparidaa"/>](mailto:hi@anuragparida.com)
-[<img align="center" src="https://img.shields.io/badge/anuragparida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/anuragparida)
-<br/>
-
-### Languages and Tools I use:
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
-[<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>](https://azure.microsoft.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/)
-[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev)
-[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>](https://cloud.google.com)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
-[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org)<br/>
-
-<!-- --- -->
-
-<!--### 🎧 What I'm vibing to right now:
-
-[![Spotify](https://spotify-now-playing-kappa-navy.vercel.app/api/spotify)](https://open.spotify.com/user/anuragparida)-->
-
-<!-- ---
-
-<details>
-  <summary>⚡ Recent GitHub Open Source Activity</summary> -->
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- </details>
-
-<details>
-  <summary>⚡ GitHub Stats</summary><br/>
-
-![Anurag's GitHub stats](https://githubreadmestatspersonal.vercel.app/api?username=anuragparida&count_private=true&show_icons=true&theme=nightowl&hide_border=true&hide=stars,contribs)
-
-</details> -->
+_Pin this repo if you want a one-page "who is this person." For deeper work history, the [portfolio site](https://anuragparida.com) is the canonical source._
