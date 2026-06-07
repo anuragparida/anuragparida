@@ -1,26 +1,25 @@
 # Anurag Parida
 
-I build AI systems — RAG, agents, multi-agent orchestration.
+I build AI systems — RAG, agents, multi-agent orchestration. Working at HDI Group now, based in Cologne, DE.
 
-Software engineer at **HDI Group** (cloud, data, and AI for commercial insurance), based in Cologne, Germany. Before that I was a founding engineer at [Zepto](https://www.zeptoes.in/) (YC SS21, employee #1) and wrote my bachelor's thesis on LLM-based vector search at Mercedes-Benz.
+I'm a software engineer at [HDI Group](https://www.hdi.de/), where the work is cloud, data, and AI for commercial insurance. Most of my time goes into the agent / RAG corner of the stack: retrieval, evaluation harnesses, multi-agent orchestration, observability.
 
-Most of what I work on is in the **agent / RAG** corner of the stack — retrieval, evaluation harnesses, multi-agent orchestration, observability. Always interested in interesting work — reach me at [hi@anuragparida.com](mailto:hi@anuragparida.com) or on [LinkedIn](https://linkedin.com/in/anuragparida).
+Want to talk? Email [hi@anuragparida.com](mailto:hi@anuragparida.com) or find me on [LinkedIn](https://linkedin.com/in/anuragparida). Always interested in interesting work.
 
-## Where to look
+## Selected repos
 
-- **[anuragparida.com](https://anuragparida.com)** — current portfolio (project highlights, work history, awards, contact)
-- **[blog.anuragparida.com](https://blog.anuragparida.com)** — posts on agent design, evals, and the things I learn shipping them
-- **Selected repos:**
-  - [`mission-control`](https://github.com/anuragparida/mission-control) — ops dashboard for my multi-agent homelab
-  - [`ALM8`](https://github.com/anuragparida/ALM8) — Alzheimer's caretaker assistant (early work)
-  - [`blog.anuragparida.com`](https://github.com/anuragparida/blog.anuragparida.com) — the blog itself
+- [`clausecraft`](https://github.com/anuragparida/clausecraft) — contract triage against a public-source playbook, redline review, tracked-changes export
+- [`atlas`](https://github.com/anuragparida/atlas) — iOS WebView shell around Open WebUI, with LAN/Tailscale reachability and NTFY notifications
+- [`ody-custom-dashboard`](https://github.com/anuragparida/ody-custom-dashboard) — the dashboard that renders my project specs as a browsable site
+- [`mission-control`](https://github.com/anuragparida/mission-control) — single pane of glass over my multi-agent homelab
 
 ## Background
 
-- **Google Code-In Grand Prize Winner 2018** (one of 26 worldwide, age 14).
+- Google Code-In Grand Prize Winner, 2018 (one of 54 worldwide, age 16).
 - Speaks English, Hindi, Odia, and German (C1).
-- Writes tools I'd want to use: a custom task board, a self-hosted Firecrawl, a six-bot Discord agent fleet.
+- Wrote my bachelor's thesis on LLM-based vector search at Mercedes-Benz.
+- Founding engineer at Zepto (YC SS21), my first job.
 
 ---
 
-_Pin this repo if you want a one-page "who is this person." For deeper work history, the [portfolio site](https://anuragparida.com) is the canonical source._
+Portfolio: [anuragparida.com](https://anuragparida.com). Blog: [blog.anuragparida.com](https://blog.anuragparida.com).
